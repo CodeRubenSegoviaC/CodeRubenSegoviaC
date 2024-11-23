@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Chile</h3>
 
 - I'm working on **learning something new every day to become a better professional.**
 
