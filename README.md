@@ -8,7 +8,8 @@
 
 - 🤝 I’d like be a **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [LinkNODisponible.com](LinkNODisponible.com)
+- 👨‍💻 All of my projects are available at [CodeRubenSegoviaC.github.io](CodeRubenSegoviaC.github.io
+)
 
 - 📫 How to reach me **Ruben.segovia.c@gmail.com**
 
